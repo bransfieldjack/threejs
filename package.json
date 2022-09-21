@@ -14,7 +14,7 @@
     "three": "^0.112.1",
     "vue": "^2.6.10",
     "vue-threejs": "^0.2.0-alpha.1",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
